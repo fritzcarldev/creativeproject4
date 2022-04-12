@@ -80,8 +80,7 @@ body {
 </style>
 
 ```
-
-
+### Connecting to the database and saving data
 ```
 const express = require('express');
 const mongodb = require('mongodb');
