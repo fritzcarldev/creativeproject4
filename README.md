@@ -123,13 +123,7 @@ async function loadPostsCollection() {
     return client.db('').collection('posts');
 }
 
-
-
-
 module.exports = router;
-
-
-
 ```
 
 
